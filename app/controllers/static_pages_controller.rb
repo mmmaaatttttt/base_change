@@ -8,6 +8,9 @@ class StaticPagesController < ApplicationController
   def exemplars
   end
 
-  def blog
+  def contact
+  end
+
+  def lessons
   end
 end

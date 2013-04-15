@@ -5,7 +5,9 @@ BaseChange::Application.routes.draw do
 
   get "static_pages/exemplars"
 
-  get "static_pages/blog"
+  get "static_pages/contact"
+
+  get "static_pages/lessons"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
